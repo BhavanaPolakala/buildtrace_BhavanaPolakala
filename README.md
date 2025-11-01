@@ -8,7 +8,7 @@ BuildTrace is a cloud-native system that detects, stores, and visualizes design 
 ----------------------------------------------------------
 Component              Platform             URL / Resource
 ----------------------------------------------------------
-FastAPI backend        Google Cloud Run     https://buildtrace-114311994469.us-central1.run.app
+FastAPI backend        Google Cloud Run     https://buildtrace-114311994469.us-central1.run.app/docs
 Metrics database       Google BigQuery      buildtrace-demo.buildtrace_metrics.daily_stats
 Dashboard (local)      Streamlit            streamlit run dashboard.py
 
