@@ -1,0 +1,59 @@
+# ===================================
+# 🧱 Docker Ignore File for BuildTrace
+# Keeps images light and builds fast
+# ===================================
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.coverage
+*.egg-info
+*.log
+.venv/
+env/
+venv/
+pip-wheel-metadata/
+*.sqlite3
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Git / Local Repo ---
+.git/
+.gitignore
+*.patch
+
+# --- OS / Cache ---
+.DS_Store
+Thumbs.db
+.cache/
+.history/
+*.bak
+*.tmp
+
+# --- Data / Output Files ---
+data_old.json
+data_new.json
+*.csv
+*.xlsx
+*.zip
+*.tar
+*.gz
+
+# --- Images / Screenshots / Media ---
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# --- Docs / Misc ---
+README.md
+notes/
+docs/

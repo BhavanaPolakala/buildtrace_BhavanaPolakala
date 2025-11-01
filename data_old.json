@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A_0",
+    "type": "wall",
+    "x": 13,
+    "y": 2,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "A_1",
+    "type": "window",
+    "x": 9,
+    "y": 3,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "A_2",
+    "type": "wall",
+    "x": 16,
+    "y": 9,
+    "width": 4,
+    "height": 2
+  },
+  {
+    "id": "A_3",
+    "type": "door",
+    "x": 11,
+    "y": 13,
+    "width": 1,
+    "height": 3
+  },
+  {
+    "id": "A_4",
+    "type": "door",
+    "x": 0,
+    "y": 10,
+    "width": 2,
+    "height": 1
+  }
+]
